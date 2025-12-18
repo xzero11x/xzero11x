@@ -1,34 +1,31 @@
 # William Andres Salazar Alva
-Systems Engineering · Full-Stack Architecture · Applied AI
+**Systems Engineering · Full-Stack Architecture · Applied AI**
 
-Software architect focused on **mission-critical enterprise SaaS**.
+Software architect focused on **mission-critical enterprise SaaS**.  
 Specialized in **data consistency, scalability, and domain-driven design**.
 
 ---
 
-### Stack
-TypeScript · Next.js (App Router) · Node.js  
-PostgreSQL (Supabase) · Backend as a Service  
-Python · Machine Learning · Deep Learning
-
----
-
-### Focus
-- Architecture of **multi-tenant ERP SaaS** (concurrency, traceability, performance)
-- Research and **production-grade application of ML models**
-- Modular design, **SOLID / DDD**, long-term maintainable systems
-
----
-
+### Technical Specialization
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xzero11x&show_icons=true&theme=dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzero11x&layout=compact&theme=dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzero11x&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=a9a9a9&icon_color=ffffff&hide=html,css,javascript" height="170" />
 </p>
+
+> **Core Stack:** TypeScript, Next.js (App Router), PostgreSQL (Supabase), Python (ML/DL).
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=xzero11x&theme=dark&hide_border=true" width="70%" />
-</p>
+### Focus & Current Research
+- **Multi-tenant ERP Architecture:** Engineering high-concurrency systems with a focus on ACID compliance and performance.
+- **Applied AI:** Implementing Deep Learning models for predictive analytics in business environments.
+- **Systems Integrity:** Applying SOLID and Clean Architecture to ensure long-term maintainability.
 
-> Engineering is precision, not verbosity.
+---
+
+### 🏛️ Engineering Philosophy
+*The quality of a system is measured by its resilience under stress, not by the volume of its code.* I am currently operating in **Deep Work mode**, architecting a proprietary ERP SaaS. This involves rigorous planning and schema design prior to mass-scale implementation.
+
+---
+
+### Connectivity
+[LinkedIn](https://linkedin.com/in/tu-usuario) · [Portfolio](https://tu-sitio.com) · [Email](mailto:tu-email@dominio.com)
