@@ -1,50 +1,45 @@
-# ¡Hola! Soy xzero11x 👋
+# ⚡ xzero11x | Systems Engineering & Full Stack Architect
 
-### 💻 Estudiante de Ingeniería de Sistemas | Full Stack Developer | AI Apprentice
-
-Soy un desarrollador apasionado por crear soluciones web robustas y escalables. Como **becario Pronabec**, enfoco mi formación académica en la excelencia técnica. Actualmente estoy volcado en el desarrollo de un **ERP SaaS** propio y expandiendo mis horizontes hacia la Inteligencia Artificial.
+> **"La perfección no es cuando no hay nada más que añadir, sino cuando no queda nada por quitar."** > Enfocado en la construcción de sistemas de misión crítica y arquitecturas escalables. Actualmente desarrollando un ecosistema ERP SaaS y especializándome en la intersección entre el Full Stack Moderno y la Inteligencia Artificial (ML/DL).
 
 ---
 
-## 🛠️ Mi Stack Tecnológico
-
-| Área | Tecnologías |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs) ![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| **Base de Datos** | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
+### 🏛️ Perfil Profesional
+- 🎓 **Becario Pronabec:** Distinción académica por alto rendimiento.
+- 🏗️ **Core Focus:** Arquitecturas Full Stack con Type Safety (TS) y Backend as a Service (Supabase).
+- 🚀 **Current Venture:** Arquitecto principal de un **ERP SaaS** de alto rendimiento.
+- 🧠 **Researching:** Deep Learning y Redes Neuronales con Python para integración en sistemas web.
 
 ---
 
-## 📈 Mi Actividad en GitHub
+### 🛠️ Technical Stack (Curated)
+**Frontend Architecture:** `Next.js (App Router)` • `React.js` • `Astro` • `TailwindCSS`
 
-Aquí puedes ver mi progreso y dedicación en tiempo real:
+**Backend & Data:** `Node.js` • `TypeScript` • `Supabase` • `PostgreSQL` • `Python (AI/ML Core)`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xzero11x&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de xzero11x" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzero11x&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" />
+### 📊 Performance Metrics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=xzero11x&show_icons=true&theme=transparent&title_color=00e6e6&text_color=ffffff&icon_color=00e6e6&border_color=00e6e6&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzero11x&layout=compact&theme=transparent&title_color=00e6e6&text_color=ffffff&icon_color=00e6e6&hide_border=true" height="170" />
 </p>
 
 ---
 
-## 🚀 Proyectos y Metas
-
-- 🏗️ **Construyendo:** Un **ERP SaaS** integral para gestión empresarial (Stack: Next.js + Supabase).
-- 🤖 **Aprendiendo:** Python para **IA, Machine Learning y Deep Learning**.
-- 🎯 **Objetivo:** Convertirme en un experto en la intersección entre el desarrollo web moderno y modelos de IA generativa.
+### 🌑 Deep Work & Projects
+- **SaaS ERP (In Development):** Un sistema diseñado para la eficiencia operativa, priorizando la integridad de datos y la velocidad de respuesta.
+- **AI Integration:** Implementando modelos predictivos en flujos de trabajo tradicionales utilizando el ecosistema de Python.
 
 ---
 
-## 📫 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/TU_USUARIO)
-[![Correo](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+### 🔗 Digital Presence
+<p align="left">
+<a href="mailto:tu-correo@dominio.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=00e6e6" hspace="5"></a>
+<a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00e6e6" hspace="5"></a>
+</p>
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xzero11x&theme=tokyonight" alt="Racha de xzero11x" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xzero11x&theme=transparent&currStreakLabel=00e6e6&sideLabels=ffffff&sideNumbers=ffffff&currStreakNum=ffffff&fire=00e6e6&dates=ffffff" width="80%" />
 </p>
