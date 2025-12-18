@@ -1,8 +1,8 @@
 # William Andres Salazar Alva
 Systems Engineering · Full-Stack Architecture · Applied AI
 
-Arquitecto de software enfocado en **SaaS empresariales de alta criticidad**.
-Especialista en **consistencia de datos, escalabilidad y diseño orientado a dominio**.
+Software architect focused on **mission-critical enterprise SaaS**.
+Specialized in **data consistency, scalability, and domain-driven design**.
 
 ---
 
@@ -14,9 +14,9 @@ Python · Machine Learning · Deep Learning
 ---
 
 ### Focus
-- Arquitectura de **ERP SaaS multi-tenant** (concurrencia, trazabilidad, performance)
-- Investigación y **aplicación productiva de modelos ML**
-- Diseño modular, **SOLID / DDD**, sistemas mantenibles a largo plazo
+- Architecture of **multi-tenant ERP SaaS** (concurrency, traceability, performance)
+- Research and **production-grade application of ML models**
+- Modular design, **SOLID / DDD**, long-term maintainable systems
 
 ---
 
