@@ -6,24 +6,35 @@ Specialized in **data consistency, scalability, and domain-driven design**.
 
 ---
 
-### Technical Specialization
+### Stack
+**Core:** `TypeScript` · `Next.js (App Router)` · `Node.js`  
+**Data:** `PostgreSQL (Supabase)` · `Prisma` · `Redis`  
+**Intelligence:** `Python` · `Machine Learning` · `Deep Learning`
+
+---
+
+### Focus
+- **Multi-tenant ERP Architecture:** Engineering systems with high concurrency, traceability, and performance.
+- **Applied AI:** Research and production-grade integration of ML models within web ecosystems.
+- **System Integrity:** Adherence to SOLID principles and Clean Architecture for long-term maintainability.
+
+---
+
+### Performance Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzero11x&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=a9a9a9&icon_color=ffffff&hide=html,css,javascript" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xzero11x&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=a9a9a9&icon_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzero11x&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=a9a9a9&icon_color=ffffff" height="170" />
 </p>
 
-> **Core Stack:** TypeScript, Next.js (App Router), PostgreSQL (Supabase), Python (ML/DL).
-
 ---
 
-### Focus & Current Research
-- **Multi-tenant ERP Architecture:** Engineering high-concurrency systems with a focus on ACID compliance and performance.
-- **Applied AI:** Implementing Deep Learning models for predictive analytics in business environments.
-- **Systems Integrity:** Applying SOLID and Clean Architecture to ensure long-term maintainability.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=xzero11x&theme=dark&hide_border=true&stroke=ffffff&fire=ffffff&ring=ffffff&currStreakNum=ffffff&currStreakLabel=a9a9a9&sideNumbers=a9a9a9&sideLabels=a9a9a9&dates=a9a9a9" width="75%" />
+</p>
 
----
-
-### 🏛️ Engineering Philosophy
-*The quality of a system is measured by its resilience under stress, not by the volume of its code.* I am currently operating in **Deep Work mode**, architecting a proprietary ERP SaaS. This involves rigorous planning and schema design prior to mass-scale implementation.
+<p align="center">
+  <i>"Engineering is precision, not verbosity."</i>
+</p>
 
 ---
 
