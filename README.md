@@ -1,20 +1,20 @@
 # Hola, soy [Tu Nombre] 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Systems+Engineering+Student;Future+ML+Engineer;PRONABEC+Scholar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Software+Engineering+Student;Future+ML+Engineer;PRONABEC+Scholar" alt="Typing SVG" />
 </p>
 
 ### 👤 Perfil Profesional
 
-Estudiante de **Ingeniería de Sistemas** con mentalidad analítica y experiencia en el desarrollo de soluciones **Fullstack**. Actualmente optimizando procesos en un **ERP SaaS**. Mi meta a corto plazo es fusionar el desarrollo web robusto con el **Machine Learning** para crear productos inteligentes.
+Estudiante de **Ingeniería de Sistemas** con mentalidad analítica y experiencia en el desarrollo de soluciones **Fullstack**. Actualmente optimizando procesos en un **ERP SaaS**. Mi meta a corto plazo es fusionar el desarrollo web robusto con el **Machine Learning**.
 
 * 🏆 **Becario PRONABEC**: Excelencia académica y compromiso.
 * 🧠 **Intereses:** IA, Deep Learning, Arquitectura de Software.
-* 💼 **Estado:** Abierto a oportunidades que desafíen mis habilidades técnicas.
+* 💼 **Estado:** Abierto a oportunidades laborales.
 
 ---
 
-### 💻 Stack Tecnológico (Minimalist Edition)
+### 💻 Stack Tecnológico
 
 | Categoría | Tecnologías |
 | :--- | :--- |
@@ -27,8 +27,8 @@ Estudiante de **Ingeniería de Sistemas** con mentalidad analítica y experienci
 ### 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=distinguished&hide_border=true&title_color=000&icon_color=000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=distinguished&hide_border=true&title_color=000" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=omni&hide_border=true&title_color=000&icon_color=000&text_color=444" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=omni&hide_border=true&title_color=000&text_color=444" width="40%" />
 </p>
 
 ---
@@ -36,5 +36,5 @@ Estudiante de **Ingeniería de Sistemas** con mentalidad analítica y experienci
 ### 📫 Conectemos
 <p align="left">
 <a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
