@@ -28,7 +28,7 @@ Python · Machine Learning · Deep Learning
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xzero11x&theme=dark&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=xzero11x&theme=dark&hide_border=true" width="70%" />
 </p>
 
 > Engineering is precision, not verbosity.
