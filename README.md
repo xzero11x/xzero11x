@@ -1,40 +1,31 @@
-# Hola, soy [Tu Nombre] 👋
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Software+Engineering+Student;Future+ML+Engineer;PRONABEC+Scholar" alt="Typing SVG" />
-</p>
+###
 
-### 👤 Perfil Profesional
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="60" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+</div>
 
-Estudiante de **Ingeniería de Sistemas** con mentalidad analítica y experiencia en el desarrollo de soluciones **Fullstack**. Actualmente optimizando procesos en un **ERP SaaS**. Mi meta a corto plazo es fusionar el desarrollo web robusto con el **Machine Learning**.
+###
 
-* 🏆 **Becario PRONABEC**: Excelencia académica y compromiso.
-* 🧠 **Intereses:** IA, Deep Learning, Arquitectura de Software.
-* 💼 **Estado:** Abierto a oportunidades laborales.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
----
-
-### 💻 Stack Tecnológico
-
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![TS](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) |
-| **Backend** | ![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express) |
-| **Database & Tools** | ![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase) ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma) ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker) |
-
----
-
-### 📊 Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=omni&hide_border=true&title_color=000&icon_color=000&text_color=444" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=omni&hide_border=true&title_color=000&text_color=444" width="40%" />
-</p>
-
----
-
-### 📫 Conectemos
-<p align="left">
-<a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+###
